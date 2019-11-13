@@ -1,0 +1,90 @@
+[
+    {
+        "latitude": "9.0634372",
+        "longitude": "7.4318026",
+        "current_km": "0",
+        "old_km": "0.00",
+        "new_km": "0",
+        "time": "14:09:51"
+    },
+    {
+        "latitude": "9.0634654",
+        "longitude": "7.4318169",
+        "current_km": "0",
+        "old_km": "0.00",
+        "new_km": "0",
+        "time": "14:10:02"
+    },
+    {
+        "latitude": "9.0634395",
+        "longitude": "7.431817",
+        "current_km": "0",
+        "old_km": "0.00",
+        "new_km": "0",
+        "time": "14:10:14"
+    },
+    {
+        "latitude": "9.0634395",
+        "longitude": "7.431817",
+        "current_km": "0",
+        "old_km": "0.00",
+        "new_km": "0",
+        "time": "14:10:24"
+    },
+    {
+        "latitude": "9.070776",
+        "longitude": "7.4349633",
+        "current_km": "0",
+        "old_km": "0.00",
+        "new_km": "0",
+        "time": "14:10:46"
+    },
+    {
+        "latitude": "9.063441",
+        "longitude": "7.4318233",
+        "current_km": "0",
+        "old_km": "0.00",
+        "new_km": "0",
+        "time": "14:11:02"
+    },
+    {
+        "latitude": "9.063439",
+        "longitude": "7.4318196",
+        "current_km": "0",
+        "old_km": "0.00",
+        "new_km": "0",
+        "time": "14:11:26"
+    },
+    {
+        "latitude": "9.0634386",
+        "longitude": "7.4318199",
+        "current_km": "0",
+        "old_km": "0.00",
+        "new_km": "0",
+        "time": "14:11:41"
+    },
+    {
+        "latitude": "9.070776",
+        "longitude": "7.4349633",
+        "current_km": "0",
+        "old_km": "0.00",
+        "new_km": "0",
+        "time": "14:11:53"
+    },
+    {
+        "latitude": "9.0634395",
+        "longitude": "7.431817",
+        "current_km": "0",
+        "old_km": "0.00",
+        "new_km": "0",
+        "time": "14:12:04"
+    },
+    {
+        "latitude": "9.0634395",
+        "longitude": "7.431817",
+        "current_km": "0.0042713",
+        "old_km": "0.00",
+        "new_km": "0.0042713",
+        "time": "14:12:21"
+    }
+]
